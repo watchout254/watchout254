@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Python projects**
 
-- 💬 Ask me about **Html, CSS, C, C++, Java**
-
 - 📫 How to reach me **mukenyadaniel299@gmail.com**
 
 - ⚡ Fun fact **Memer, heavy on humor**
