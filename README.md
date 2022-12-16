@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Mukenya,</h1>
 <h3 align="center">A passionate Software and Web developer</h3>
 
-- 🔭 I’m currently working on **Stock management system**
-
-- 🌱 I’m currently learning **Python, Java, Java script and PHP**
-
 - 📫 How to reach me **mukenyadaniel299@gmail.com**
 
 - ⚡ Fun fact **memer, Heavy on humor**
