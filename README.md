@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Python, Java, Java script and PHP**
 
-- 💬 Ask me about **Html, C, C++, Java**
-
 - 📫 How to reach me **mukenyadaniel299@gmail.com**
 
-- ⚡ Fun fact **I'm a memer, Heavy on humor**
+- ⚡ Fun fact **memer, Heavy on humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
