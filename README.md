@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software and Web developer</h3>
 
 - 📫 How to reach me **mukenyadaniel299@gmail.com**
-- Currently learning: **ML, AI and API **
+- Currently learning: ML, AI and API
 
 - ⚡ Fun fact **memer, Heavy on humor**
 
