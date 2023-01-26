@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **mukenyadaniel299@gmail.com**
 
-- ⚡ Fun fact **I'm a memer, Heavy on humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
