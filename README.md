@@ -1,5 +1,5 @@
 #  Daniel Mukenya
-🌱 I’m currently learning Python, PYTHONISTA<br><br>📫 How to reach me mukenyadaniel299@gmail.com<br>
+🌱 I’m currently learning Python, PYTHONISTA<br><br><br>
 
 
 ## 🌐 Socials:
