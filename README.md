@@ -1,5 +1,5 @@
 #  Daniel Mukenya
-🌱 I’m currently learning Python, PYTHONISTA<br><br><br>
+🌱 PYTHONISTA<br><br><br>
 
 
 ## 🌐 Socials:
