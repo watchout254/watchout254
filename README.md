@@ -1,5 +1,7 @@
 #  Daniel Mukenya
-🌱 PYTHONISTA<br><br><br>
+🌱 PYTHONISTA<br><br>
+
+🕷🕷🕷Literally, Spiderman is a web developer broo 🕸🕸🕸
 
 
 ## 🌐 Socials:
